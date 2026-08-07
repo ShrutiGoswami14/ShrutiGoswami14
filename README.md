@@ -1,6 +1,7 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Shruti Goswami
-Aspiring Data Scientist 
+💫 Hi 👋, I'm Shruti Goswami<br>
+Aspiring Data Scientist<br><br>
+
 🔭 I’m currently working on: Machine Learning & Data Analytics projects<br>👯 I’m looking to collaborate on: ML, NLP & Data Science projects<br>🤝 I’m looking for help with: Advanced ML & NLP<br>🌱 I’m currently learning: Machine Learning, NLP & Deep Learning<br>💬 Ask me about: ML, Data Science & my projects<br>⚡ Fun fact: I love exploring and learning new tech stacks!
 
 
